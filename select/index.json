@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Ferris Wheel",
+  "base_artist": "Imagine Dragons",
+  "createdAt": "2025-12-01T04:34:22.312664Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ferris Wheel",
+      "artist": "Sylvan Esso",
+      "has_synced": true,
+      "path": "select/01_Ferris_Wheel_Sylvan_Esso.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hotwire the Ferris Wheel",
+      "artist": "Jens Lekman feat. Tracey Thorn",
+      "has_synced": true,
+      "path": "select/02_Hotwire_the_Ferris_Wheel_Jens_Lekman_feat._Tracey_Thorn.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hotwire the Ferris Wheel",
+      "artist": "Jens Lekman",
+      "has_synced": true,
+      "path": "select/03_Hotwire_the_Ferris_Wheel_Jens_Lekman.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ferris Wheel",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/04_Ferris_Wheel_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ferris Wheel",
+      "artist": "The-Dream",
+      "has_synced": true,
+      "path": "select/05_Ferris_Wheel_The-Dream.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ferris Wheel",
+      "artist": "Kevin Morby",
+      "has_synced": true,
+      "path": "select/06_Ferris_Wheel_Kevin_Morby.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ferris Wheel",
+      "artist": "Donovan",
+      "has_synced": true,
+      "path": "select/07_Ferris_Wheel_Donovan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ferris Wheel",
+      "artist": "Donovan",
+      "has_synced": false,
+      "path": "select/08_Ferris_Wheel_Donovan.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Ferris Wheel",
+      "artist": "The Everly Brothers",
+      "has_synced": true,
+      "path": "select/09_The_Ferris_Wheel_The_Everly_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ferris Wheel on Fire - 1993",
+      "artist": "Neutral Milk Hotel",
+      "has_synced": true,
+      "path": "select/10_Ferris_Wheel_on_Fire_-_1993_Neutral_Milk_Hotel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ferris Wheel on Fire",
+      "artist": "Neutral Milk Hotel",
+      "has_synced": true,
+      "path": "select/11_Ferris_Wheel_on_Fire_Neutral_Milk_Hotel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Ferris Wheel",
+      "artist": "Everly Brothers",
+      "has_synced": true,
+      "path": "select/12_The_Ferris_Wheel_Everly_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ferris Wheel",
+      "artist": "Donovan",
+      "has_synced": true,
+      "path": "select/13_Ferris_Wheel_Donovan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ferris Wheel",
+      "artist": "Imagine Dragons",
+      "has_synced": true,
+      "path": "select/14_Ferris_Wheel_Imagine_Dragons.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ferris Wheel ～星の観覧車～",
+      "artist": "南 央美",
+      "has_synced": false,
+      "path": "select/pl_01_Ferris_Wheel_~星の観覧車~_南_央美.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Ferris Wheelのある街",
+      "artist": "南 央美",
+      "has_synced": false,
+      "path": "select/pl_02_Ferris_Wheelのある街_南_央美.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Ferris Wheel",
+      "artist": "南 央美",
+      "has_synced": false,
+      "path": "select/pl_03_Ferris_Wheel_南_央美.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Ferris Wheel",
+      "artist": "南 央美",
+      "has_synced": false,
+      "path": "select/pl_04_Ferris_Wheel_南_央美.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Ferris wheel",
+      "artist": "南 央美",
+      "has_synced": false,
+      "path": "select/pl_05_Ferris_wheel_南_央美.txt"
+    }
+  ]
+}
