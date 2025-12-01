@@ -1,0 +1,80 @@
+# Imagine Dragons – Ferris Wheel
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:04.87] August in the heat
+[00:07.21] Sweaty in the street
+[00:09.53] Tilt-a-whirling (whirling, whirling)
+[00:27.53] 
+[00:14.14] I can feel your eyes
+[00:16.45] Find me in the crowd
+[00:19.11] Think you like me now (now, now)
+[00:35.11] 
+[00:23.75] I've been seeing you everyday
+[00:26.28] On my block in your white tee
+[00:28.23] You're looking pretty fine to me
+[00:30.06] So why are you waiting?
+[00:41.56] 
+[00:33.15] When I'm slamming in my dancing shoes
+[00:35.19] Asphalt's hot and, my knees all bruised
+[00:37.62] It's the summer got a lot to prove
+[00:39.77] Can't wait to do it can you? (No!)
+[00:56.77] 
+[00:42.57] Oh, I'm swaying from side to side
+[00:45.35] In the neon lights
+[00:47.06] Sainted halo, underworld goth vibes
+[00:49.20] You'll do fine for tonight
+[01:02.20] 
+[00:51.57] Take me, take me, me
+[00:54.33] Ferris wheeling babe
+[00:56.50] It's the air I crave (crave, crave)
+[01:14.00] 
+[01:01.07] When we're up so high
+[01:03.85] Salty wind at night
+[01:05.92] Make out, mountain high (mountain high)
+[01:25.42] 
+[01:10.60] I've been seeing you everyday
+[01:13.05] On my block in your white tee
+[01:15.31] You're looking pretty fine to me
+[01:17.07] So why are you waiting?
+[01:28.57] 
+[01:20.11] When I'm slamming in my dancing shoes
+[01:22.16] Asphalt's hot, and my knees all bruised
+[01:24.78] It's the summer got a lot to prove
+[01:26.79] Can't wait to do it can you? (No!)
+[01:43.79] 
+[01:29.47] Oh, I'm swaying from side to side
+[01:32.60] In the neon lights
+[01:34.33] Sainted halo underworld goth vibes
+[01:36.41] You'll do fine for tonight
+[01:49.41] 
+[01:45.71] You'll do fine for tonight
+[01:58.71] 
+[01:55.18] You'll do fine for tonight
+[02:08.18] 
+[01:57.80] I've been seeing you every day
+[02:00.05] On my block in your white tee
+[02:02.25] You're looking pretty fine to me
+[02:04.25] So why are you waiting?
+[02:15.75] 
+[02:07.25] I've been seeing you everyday
+[02:09.68] On my block in your white tee
+[02:11.52] You're looking pretty fine to me
+[02:13.62] So
+[02:16.03] So why are you waiting?
+[02:27.53] 
+[02:19.08] When I'm slamming in my dancing shoes
+[02:21.03] Asphalt's hot, and my knees all bruised
+[02:23.60] It's the summer, got a lot to prove
+[02:25.42] Can't wait to do it, can you? (No!)
+[02:42.92] 
+[02:28.44] Oh, I'm swaying from side to side
+[02:31.38] In the neon lights
+[02:33.07] Sainted halo, underworld goth vibes
+[02:35.35] You'll do fine for tonight
+[02:48.35] 
+[02:44.59] You'll do fine for tonight
+[02:57.59] 
+[02:54.03] You'll do fine for tonight
+```
